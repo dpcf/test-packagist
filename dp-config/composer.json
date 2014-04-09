@@ -1,0 +1,10 @@
+{
+    "name": "dpcf/dp-config",
+    "description": "",
+    "version": "0.0.1",
+    "autoload": {
+        "psr-0" : {
+            "Dpcf\\DangerZone" : "dp-config/src"
+        }
+    }
+}
