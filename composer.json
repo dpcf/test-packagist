@@ -1,0 +1,10 @@
+{
+    "name": "dpcf/test-packagist",
+    "description": "",
+    "version": "0.0.1",
+    "autoload": {
+        "psr-0" : {
+            "Dpcf\\DangerZone" : "src"
+        }
+    }
+}
