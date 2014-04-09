@@ -1,0 +1,8 @@
+{
+    "name": "dpcf/test-packagist",
+    "autoload": {
+        "psr-0" : {
+            "Dpcf\\DangerZone" : "src"
+        }
+    }
+}
