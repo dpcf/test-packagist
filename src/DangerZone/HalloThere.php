@@ -11,6 +11,6 @@ class HalloThere
 {
     public function sayHallo()
     {
-        return 'Hallo!';
+        return 'Hallo! Version 01';
     }
 }
